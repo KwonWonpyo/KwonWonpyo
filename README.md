@@ -12,7 +12,7 @@ Other skills than programming
 - Unity 3D and Unreal Engine for video game engine
 - MS Word/PowerPoint (I'm developing wordprocessor)
 
-Contact Me : commi1106@naver.com (personal)
+Contact Me : commi1106@naver.com (personal)\
 My Blog (Korean) : velog.io/@commi1106 
 <!---
 KwonWonpyo/KwonWonpyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
