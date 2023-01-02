@@ -1,16 +1,16 @@
 Hi, I’m Kwon Wonpyo, living in South Korea.
 
 I got my M.S degree on Electrical Engineering at POSTECH in 2020,
-and now I’m working on TmaxOffice as a developer.
+and now I’m working  as a developer.
 
 I am skilled with C++ mostly, and interested in video games, band music.
 I'm learning computer science and new programming skills continuously. Currently, learning React and JavaScript.
 
 Other skills than programming
 - Microwave Engineering and basic curriculums (Calculus, Linear Algebra, General Physics, etc.)
-- Ansys HFSS for full-wave 3D simulation
+- Ansys HFSS for full-wave 3D simulation (designing and evaluating antenna system)
 - Unity 3D and Unreal Engine for video game engine
-- MS Word/PowerPoint (I'm developing wordprocessor)
+- MS Word/PowerPoint (I'm developing wordprocessor for TmaxOffice)
 
 Contact Me : commi1106@naver.com (personal)\
 My Blog (Korean) : velog.io/@commi1106 
