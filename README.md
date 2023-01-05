@@ -13,7 +13,7 @@ Other skills than programming
 - MS Word/PowerPoint (I'm developing wordprocessor for TmaxOffice)
 
 Contact Me : commi1106@naver.com (personal)\
-My Blog (Korean) : velog.io/@commi1106 
+My Blog (Korean) : [velog.io/@commi1106](velog.io/@commi1106)
 <!---
 KwonWonpyo/KwonWonpyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
