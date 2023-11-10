@@ -1,19 +1,21 @@
 Hi, I’m Kwon Wonpyo, living in South Korea.
 
-I got my M.S degree on Electrical Engineering at POSTECH in 2020,
-and now I’m working  as a developer.
-
-I am skilled with C++ mostly, and interested in video games, band music.
-I'm learning computer science and new programming skills continuously. Currently, learning React and JavaScript.
-
+Skills
+- 
+I am skilled with React+TypeScript mostly, and interested in video games, band music.
+- C++ / React+TypeScript / Java+Spring
+  
 Other skills than programming
-- Microwave Engineering and basic curriculums (Calculus, Linear Algebra, General Physics, etc.)
+- Microwave Engineering (Transmission Lines, mmWave Antenna System, etc.)
 - Ansys HFSS for full-wave 3D simulation (designing and evaluating antenna system)
 - Unity 3D and Unreal Engine for video game engine
-- MS Word/PowerPoint (I'm developing wordprocessor for TmaxOffice)
+- MS Word/PowerPoint (I'm working at TmaxOffice)
+
+
 
 Contact Me : commi1106@naver.com (personal)\
-My Blog (Korean) : [velog.io/@commi1106](velog.io/@commi1106)
+LinkedIn : \
+CV for Antenna Engineer :
 <!---
 KwonWonpyo/KwonWonpyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
